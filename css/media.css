@@ -1,0 +1,624 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* header start */
+    /* logo start */
+    .custom_logo h1{
+        font-size: 36px;
+    }
+    .custom_logo p{
+        letter-spacing: 1px;
+    }
+    /* menu start */
+    .menu_custom ul li a{
+        font-size: 16px;
+        text-align: center;
+    }
+    /* header start */
+    /* banner start */
+    .banner{
+        padding: 20px 0 60px;
+    }
+    .banner_text{
+        text-align: center;
+        padding-left: 0;
+    }
+    .banner_text h4{
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .banner_text p{
+        padding: 10px 0 25px 0;
+      }
+    .banner_text h2{
+        font-size: 25px;
+    }
+    #common_btn{
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+    .custom_slider{
+        padding-bottom: 40px;
+    }
+    .custom_inner{
+        padding: 25px 0;
+    }
+    /* banner end */
+    /* about start */
+    .about_tex{
+        padding-left: 0;
+        padding-top: 60px;
+        text-align: center;
+    }
+    .title_text h1{
+        font-size: 30px;
+    }
+    .title_text p{
+        font-size: 16px;
+    }
+    .A_btn{
+        margin-top: 30px;
+    }
+    .about_tex h3{
+        font-size: 20px;
+    }
+    .about_tex h2{
+        font-size: 25px;
+    }
+    /* about end */
+    /* service start */
+    .ser_item{
+        margin-bottom: 20px;
+    }
+    /* service end */
+    /* counter start */
+    .counter_text{
+        margin-bottom: 20px;
+    }
+    /* counter end */
+    /* feature start */
+    .fear_item{
+        margin-bottom: 30px;
+    }
+    /* feature end */
+    /* textimoniyal start */
+    .testi_item{
+        margin-bottom: 20px;
+    }
+    /* textimoniyal end */
+    /* price start */
+    .praice_item {
+        margin-bottom: 20px;
+    }
+    /* price end */
+    /* contact start */
+    .c_btn{
+        padding: 6px 119px !important;
+    }
+    /* contact end */
+    /* Download start */
+    .download {
+        padding-bottom: 280px;
+    }
+    .dnd-item{
+        text-align: center;
+    }
+    .dnd-item h3{
+        font-size: 18px;
+    }
+    .dnd-item h1{
+        font-size: 24px;
+    }
+    .dnd-item h2{
+        font-size: 20px;
+    }
+    .dnd-item a img {
+        width: 35% !important;
+    }
+    .dnd_img img {
+        width: 85%;
+        top: 18px;
+        right: 20px;
+    }
+    /* Download end */
+    /* footer start */
+    footer{
+        text-align: center;
+        padding: 50px 0;
+    }
+    .footer_a{
+        padding-right: 0;
+      }
+    .footer_a h2{
+        font-size: 25px;
+    }
+    .footer_a p{
+        padding: 10px 0;
+    }
+    .social_icon a i{
+        margin-right: 10px !important;
+        font-size: 25px !important;
+    }
+    .download_here h2{
+        font-size: 25px;
+    }
+    .download_here p{
+        padding: 10px  0 0;
+    }
+    .download_here h6{
+        font-size: 20px;
+    }
+    .download_here h6 i{
+        font-size: 25px;
+    }
+    .contac_here{
+        margin-top: 20px;
+    }
+    .contac_here h2{
+        padding-bottom: 15px;
+        font-size: 25px;
+    }
+    .contac_here h4{
+        font-size: 16px;
+    }
+    .contac_here h6{
+        padding: 10px 0;
+        font-size: 16px;
+    }
+    .contac_here h5{
+        font-size: 16px;
+    }
+    /* footer start */
+    
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    /* logo start */
+    .custom_logo h1{
+        font-size: 45px;
+    }
+    .custom_logo p{
+        letter-spacing: 3px;
+    }
+    /* menu start */
+    .menu_custom ul li a{
+        text-align: center;
+    }
+    /* header start */
+    /* banner start */
+    .banner{
+        padding: 10px 0 60px;
+    }
+    .banner_text{
+        text-align: center;
+        padding-left: 0;
+    }
+    .banner_text h4{
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .banner_text p{
+        padding: 20px 0 35px 0;
+      }
+    .banner_text h2{
+        font-size: 25px;
+    }
+    #common_btn{
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+    .custom_slider{
+        padding-bottom: 40px;
+    }
+    .custom_inner{
+        padding: 45px 0;
+    }
+    /* banner end */
+    /* about start */
+    .title_text h1{
+        font-size: 35px;
+    }
+    .title_text p{
+        font-size: 16px;
+    }
+    .about_tex{
+        padding-left: 0;
+        padding-top: 60px;
+        text-align: center;
+    }
+    .A_btn{
+        margin-top: 30px;
+    }
+    /* about end */
+    /* service start */
+    .ser_item{
+        margin-bottom: 20px;
+    }
+    /* service end */
+    /* counter start */
+    .counter_text{
+        margin-bottom: 20px;
+    }
+    /* counter end */
+    /* feature start */
+    .fear_item{
+        height: 470px;
+        margin-bottom: 20px;
+    }
+    .fear_item p{
+        padding: 0 0 10px 0;
+      }
+    /* feature end */
+    /* textimoniyal start */
+    .testi_item{
+        margin-bottom: 20px;
+    }
+    /* textimoniyal end */
+    /* price start */
+    .praice_item {
+        margin-bottom: 20px;
+    }
+    /* price end */
+    /* contact start */
+    .c_btn{
+        padding: 6px 94px !important;
+    }
+    /* contact end */
+    /* Download start */
+    .dnd-item h3{
+        font-size: 18px;
+    }
+    .dnd-item h1{
+        font-size: 24px;
+    }
+    .dnd-item h2{
+        font-size: 20px;
+    }
+    .dnd-item a img {
+        width: 35% !important;
+    }
+    .dnd_img img {
+        width: 85%;
+        top: 105px;
+        right: 0;
+    }
+    /* Download end */
+    /* footer start */
+    footer{
+        padding: 50px 0;
+    }
+    .footer_a h2{
+        font-size: 17px;
+    }
+    .footer_a p{
+        padding: 10px 0;
+    }
+    .social_icon a i{
+        margin-right: 10px !important;
+        font-size: 25px !important;
+    }
+    .download_here h2{
+        font-size: 17px;
+    }
+    .download_here p{
+        padding: 10px  0 0;
+    }
+    .download_here h6{
+        font-size: 20px;
+    }
+    .download_here h6 i{
+        font-size: 25px;
+    }
+    .contac_here h2{
+        padding-bottom: 15px;
+        font-size: 17px;
+    }
+    .contac_here h4{
+        font-size: 16px;
+    }
+    .contac_here h6{
+        padding: 10px 0;
+        font-size: 16px;
+    }
+    .contac_here h5{
+        font-size: 16px;
+    }
+    /* footer start */
+
+}
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    /* logo start */
+    .custom_logo h1{
+        font-size: 45px;
+    }
+    .custom_logo p{
+        letter-spacing: 3px;
+    }
+    /* menu start */
+    .menu_custom ul li a{
+        text-align: center;
+    }
+    /* header start */
+    /* banner start */
+    .banner{
+        padding: 30px 0 60px;
+    }
+    .banner_text{
+        text-align: center;
+        padding-left: 0;
+    }
+    .banner_text h4{
+        font-size: 20px;
+        letter-spacing: 0;
+    }
+    .banner_text p{
+        padding: 20px 0 35px 0;
+      }
+    .banner_text h2{
+        font-size: 50px;
+    }
+    #common_btn{
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+    .custom_slider{
+        padding-bottom: 40px;
+    }
+    .custom_inner{
+        padding: 45px 0;
+    }
+    /* banner end */
+    /* about start */
+    .about_tex{
+        padding-left: 0;
+        padding-top: 60px;
+        text-align: center;
+    }
+    .A_btn{
+        margin-top: 30px;
+    }
+    /* about end */
+    /* service start */
+    .ser_item{
+        margin-bottom: 20px;
+    }
+    /* service end */
+    /* counter start */
+    .counter_text{
+        margin-bottom: 20px;
+    }
+    /* counter end */
+    /* feature start */
+    .fear_item{
+        margin-bottom: 30px;
+    }
+    /* feature end */
+    /* textimoniyal start */
+    .testi_item{
+        margin-bottom: 20px;
+    }
+    /* textimoniyal end */
+    /* price start */
+    .praice_item {
+        margin-bottom: 20px;
+    }
+    /* price end */
+    /* contact start */
+    .c_btn{
+        padding: 6px 139px !important;
+    }
+    /* contact end */
+    /* Download start */
+    .dnd-item h3{
+        font-size: 25px;
+    }
+    .dnd-item h1{
+        font-size: 32px;
+    }
+    .dnd-item h2{
+        font-size: 30px;
+    }
+    .dnd-item a img {
+        width: 35% !important;
+    }
+    .dnd_img img {
+        top: 18px;
+        right: 0;
+    }
+    /* Download end */
+    /* footer start */
+    footer{
+        padding: 50px 0;
+    }
+    .footer_a h2{
+        font-size: 20px;
+    }
+    .footer_a p{
+        padding: 10px 0;
+    }
+    .social_icon a i{
+        margin-right: 10px !important;
+        font-size: 25px !important;
+    }
+    .download_here h2{
+        font-size: 20px;
+    }
+    .download_here p{
+        padding: 10px  0 0;
+    }
+    .download_here h6{
+        font-size: 20px;
+    }
+    .download_here h6 i{
+        font-size: 25px;
+    }
+    .contac_here h2{
+        padding-bottom: 15px;
+        font-size: 20px;
+    }
+    .contac_here h4{
+        font-size: 16px;
+    }
+    .contac_here h6{
+        padding: 10px 0;
+        font-size: 16px;
+    }
+    .contac_here h5{
+        font-size: 16px;
+    }
+    /* footer start */
+
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* header start */
+    /* logo start */
+    .custom_logo h1{
+        font-size: 45px;
+    }
+    .custom_logo p{
+        letter-spacing: 3px;
+    }
+    /* header start */
+    /* banner start */
+    .banner_text h2{
+        font-size: 45px;
+    }
+    .banner_text p{
+        padding: 20px 30px 35px 0;
+      }
+    /* banner end */
+    /* about start */
+    /* titel start */
+    .title_text{
+        margin-bottom: 45px;
+    }
+    .title_text h1{
+    font-size: 40px;
+    }
+    .title_text p{
+        font-size: 16px;
+    }
+    /* titel end */
+    .about_tex h3{
+        font-size: 18px;
+    }
+    .about_tex h2{
+        font-size: 30px;
+    }
+    .about_p {
+        padding: 5px 0  0;
+    }
+    .about_p .p2{
+        padding-top: 5px;
+    }
+    .about_icon{
+        font-size: 20px;
+    }
+    .about_icon i{
+        padding-top: 5px;
+    }
+    .about_Text p{
+        padding-top: 5px;
+    }
+    .A_btn{
+        margin-top: 10px;
+        padding: 5px 30px;
+    }
+    /* about end */
+    /* service strat */
+    .ser_item h2{
+        font-size: 16px;
+    }
+    /* service end */
+    /* feature start */
+    .fear_item p {
+        padding: 0 3px 0px 3px;
+    }
+    /* feature end */
+    /* contact start */
+    .c_btn{
+        padding: 6px 80px !important;
+    }
+    /* contact end */
+    /* download start */
+    .dnd_img img{
+        top: 106px; 
+    }
+    .dnd-item h1{
+        font-size: 38px;
+    }
+    /* download end */
+    /* footer start */
+    .contac_here h4{
+        font-size: 18px;
+    }
+    .contac_here h6{
+        padding: 10px 0;
+        font-size: 18px;
+    }
+    .contac_here h5{
+        font-size: 18px;
+    }
+    .download_here h6{
+        font-size: 20px;
+    }
+    .download_here h6 i{
+        font-size: 25px;
+    }
+    /* footer end */
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+    /* contact start */
+    .c_btn{
+        padding: 6px 101px !important;
+    }
+    /* contact end */
+}
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    /* about start */
+    /* titel start */
+    .title_text{
+        margin-bottom: 45px;
+    }
+    .title_text h1{
+    font-size: 50px;
+    }
+    /* titel end */
+    .about_tex h3{
+        font-size: 30px;
+    }
+    .about_tex h2{
+        font-size: 50px;
+    }
+    .about_p {
+        padding: 30px 0 20px 0;
+    }
+    .about_p .p2{
+        padding-top: 20px;
+    }
+    .A_btn{
+        margin-top: 70px;
+    }
+    /* about end */
+    /* contact start */
+    .c_btn{
+        padding: 6px 124px !important;
+    }
+    /* contact end */
+    /* download start */
+    .dnd_img img{
+        top: 55px; 
+      }
+    /* download end */
+
+}

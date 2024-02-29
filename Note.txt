@@ -1,0 +1,24 @@
+font: Poppins;
+.............
+
+color:
+...........
+
+black: #333333;
+whate: #ffffff;
+yellow:#F2A100
+ash:   #eeeeee;
+
+icons:
+......
+fontawesome cdn
+pe 7stack cdn
+
+
+
+
+
+
+
+
+
